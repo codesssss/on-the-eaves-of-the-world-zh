@@ -6,6 +6,8 @@
 
 法勒笔下的中国西部行旅与植物考察。上下两卷中文 EPUB，保留原著插图与地图，附历史地名、植物名称与学名考释。
 
+[中文版介绍与书目资料](https://henryshi.dev/books/on-the-eaves-of-the-world/) · [English introduction](https://henryshi.dev/books/on-the-eaves-of-the-world/en/)
+
 <table>
   <tr>
     <td align="center"><img src="assets/cover-vol-1.png" width="240" alt="《在世界的屋檐下》上卷封面"><br>上卷</td>
@@ -31,6 +33,14 @@
 - 原书植物学附录与总索引的采集编号差异分别照录，参见[原书采集编号差异](docs/原书采集编号差异.md)。
 
 本仓库目前提供上下卷中文版 EPUB。
+
+## English introduction
+
+This repository provides a two-volume Chinese EPUB edition of Reginald Farrer's *On the Eaves of the World*, originally published by Edward Arnold in London in 1917. **Xuhang Shi (史徐行)** translated and edited the Chinese edition.
+
+The edition preserves the original photographs and maps, with annotations on historical place names, plant names, and scientific nomenclature. Both EPUB downloads above are in Chinese. For bibliographic references, edition details, and reading information, see the [English book page](https://henryshi.dev/books/on-the-eaves-of-the-world/en/).
+
+The license applies to the translation and editorial contributions within the scope stated in [LICENSE.md](LICENSE.md). Corrections are welcome through [Issues](https://github.com/codesssss/on-the-eaves-of-the-world-zh/issues).
 
 ## 勘误
 
