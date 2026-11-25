@@ -19,8 +19,8 @@
 
 | 卷册 | 格式 | 大小 | 下载 |
 | --- | --- | --- | --- |
-| 上卷 | EPUB | 26.1 MiB | [下载上卷中文版](books/在世界的屋檐下_上卷_中文版.epub?raw=true) |
-| 下卷 | EPUB | 25.1 MiB | [下载下卷中文版](books/在世界的屋檐下_下卷_中文版.epub?raw=true) |
+| 上卷 | EPUB | 28.3 MiB | [下载上卷中文版](books/在世界的屋檐下_上卷_中文版.epub?raw=true) |
+| 下卷 | EPUB | 27.4 MiB | [下载下卷中文版](books/在世界的屋檐下_下卷_中文版.epub?raw=true) |
 
 下载后可导入 Apple 图书或其他支持 EPUB 的阅读器。文件校验值见 [SHA256SUMS](SHA256SUMS)。
 
@@ -28,17 +28,17 @@
 
 - 上卷十二章、下卷九章，附原著摄影插图及地图；上卷卷首附《作者简介》与《译者序》。
 - 保留下卷行程表、植物学附录与总索引。
-- 完成全书精校与称谓、历史地名、植物名称及学名考释统一，优化中文阅读排版与扉页、导航显示。
+- 完成全书精校与称谓、历史地名、植物名称及学名考释统一，优化中文阅读排版、扉页、导航显示，并重塑上下卷钢版蚀刻融纸 × 方正仿宋定稿封面。
 - 正文可点开注释；注释末尾不再显示返回按钮，全卷译注按阅读顺序连续编号。
 - 原书植物学附录与总索引的采集编号差异分别照录，参见[原书采集编号差异](docs/原书采集编号差异.md)。
 
-本仓库目前提供上下卷中文版 EPUB（2026 年 11 月 24 日精校修订版）。
+本仓库目前提供上下卷中文版 EPUB（2026 年 11 月 25 日精校与封面定稿版）。
 
 ## English introduction
 
-This repository provides a two-volume Chinese EPUB edition (revised proofreading release, November 24, 2026) of Reginald Farrer's *On the Eaves of the World*, originally published by Edward Arnold in London in 1917. **Xuhang Shi (史徐行)** translated and edited the Chinese edition.
+This repository provides a two-volume Chinese EPUB edition (proofreading & final cover release, November 25, 2026) of Reginald Farrer's *On the Eaves of the World*, originally published by Edward Arnold in London in 1917. **Xuhang Shi (史徐行)** translated and edited the Chinese edition.
 
-The edition preserves the original photographs and maps, adds an author biography and translator's preface in Volume I, refines Chinese reading typography, and includes annotations on historical place names, plant names, and scientific nomenclature. Both EPUB downloads above are in Chinese. For bibliographic references, edition details, and reading information, see the [English book page](https://henryshi.dev/books/on-the-eaves-of-the-world/en/).
+The edition preserves the original photographs and maps, introduces paired steel-engraving covers for Volumes I and II, adds an author biography and translator's preface in Volume I, refines Chinese reading typography, and includes annotations on historical place names, plant names, and scientific nomenclature. Both EPUB downloads above are in Chinese. For bibliographic references, edition details, and reading information, see the [English book page](https://henryshi.dev/books/on-the-eaves-of-the-world/en/).
 
 The license applies to the translation and editorial contributions within the scope stated in [LICENSE.md](LICENSE.md). Corrections are welcome through [Issues](https://github.com/codesssss/on-the-eaves-of-the-world-zh/issues).
 
